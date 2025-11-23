@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+
+    <title>AluCoffe</title>
+</head>
+
+<body>
+    <header>
+        <h1 class="logo">Alu<br><span style="color: #f6ae4c;">Coffe</span></h1>
+        <div class="search-container">
+            <input type="text" id="input-busca" placeholder="O que você está buscando?" aria-label="Campo de busca">
+            <button id="botao-busca" onclick="iniciarBusca()" aria-label="Buscar">Buscar</button>
+        </div>
+    </header>
+
+
+    <main>
+        <section class="hero">
+            <h2>O café  da Alura que abraça a sua alma!</h2>
+            <p>Desfrute de momentos únicos com nossos grãos selecionados e um ambiente pensado para você.</p>
+        </section>
+
+        <div class="menu-e-cards">
+            <aside class="fixa-menu">
+                <nav class="menu-filtros">
+                    <button class="menu-filtros-botao-principal" aria-expanded="false" aria-controls="filtros-lista">
+                        <h2>Cardápio</h2>
+                    </button>
+                    <div class="filtros-lista" id="filtros-lista">
+                        <button onclick="filtrar('quentes')">1. Bebidas Quentes</button>
+                        <button onclick="filtrar('frias')">2. Bebidas Frias</button>
+                        <button onclick="filtrar('doces')">3. Doces & Confeitaria</button>
+                        <button onclick="filtrar('salgados')">4. Lanches Salgados</button>
+                        <button onclick="filtrar('veganas')">5. Opções Veganas</button>
+                        <button onclick="filtrar('saudaveis')">6. Opções Saudáveis</button>
+                        <button onclick="filtrar('todos')" class="active">7. Ver Todos</button>
+                    </div>
+                </nav>
+            </aside>
+    
+            <section class="card-container">
+                <!-- Os produtos serão inseridos aqui pelo JavaScript -->
+            </section>
+        </div>
+    </main>
+
+    <footer class="footer">
+        <div class="footer-info">
+            <p>AluCoffe &copy; 2024</p>
+            <p>Rua do Sabor, 123 - Centro, São Paulo/SP</p>
+            <p>Aberto todos os dias das 8h às 20h</p>
+        </div>
+        <ul class="footer-links">
+            <li>
+                <a href="https://github.com/LucasAlmeidaBr97" target="_blank">GitHub</a>
+            </li>
+            <li>
+                <a href="https://www.alura.com.br/" target="_blank">Alura</a>
+            </li>
+            <li>
+                <a href="#" target="_blank" rel="noopener noreferrer">Instagram</a>
+            </li>
+            <li>
+                <a href="#" target="_blank" rel="noopener noreferrer">Facebook</a>
+            </li>
+        </ul>
+    </footer>
+    <script src="script.js"></script>
+</body>
+
+</html>

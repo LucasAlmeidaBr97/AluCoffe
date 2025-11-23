@@ -1,0 +1,234 @@
+{
+  "quentes": [
+    {
+      "nome": "Cappuccino",
+      "descricao": "Espresso com leite vaporizado",
+      "preco": 11.99
+    },
+    {
+      "nome": "Espresso",
+      "descricao": "Grãos cuidadosamente selecionados",
+      "preco": 7.99
+    },
+    {
+      "nome": "Mocha",
+      "descricao": "Espresso, calda de chocolate e leite vaporizado",
+      "preco": 14.5
+    },
+    {
+      "nome": "Café Latte",
+      "descricao": "Uma dose de espresso com o dobro de leite vaporizado",
+      "preco": 12.9
+    },
+    {
+      "nome": "Americano",
+      "descricao": "Espresso suave diluído em água quente",
+      "preco": 8.5
+    },
+    {
+      "nome": "Chocolate Quente",
+      "descricao": "Chocolate cremoso derretido em leite vaporizado",
+      "preco": 13
+    },
+    {
+      "nome": "Flat White",
+      "descricao": "Café aveludado com shot duplo de ristretto e microespuma de leite, sem a camada de espuma tradicional.",
+      "preco": 12.5
+    },
+    {
+      "nome": "Chai Latte",
+      "descricao": "Bebida indiana quente preparada com chá preto, especiarias (cardamomo, canela) e leite vaporizado.",
+      "preco": 14
+    },
+    {
+      "nome": "Ristretto",
+      "descricao": "Extração ultraconcentrada e curta de café, resultando em sabor intenso e corpo aveludado.",
+      "preco": 8.5
+    },
+    {
+      "nome": "Matcha Latte Quente",
+      "descricao": "Chá verde japonês em pó (matcha) misturado com leite cremoso e adoçante natural, servido quente.",
+      "preco": 16.5
+    }
+  ],
+  "frias": [
+    {
+      "nome": "Frappuccino",
+      "descricao": "Café gelado batido com leite",
+      "preco": 16.9
+    },
+    {
+      "nome": "Café Gelado",
+      "descricao": "Café filtrado servido com gelo",
+      "preco": 9.5
+    },
+    {
+      "nome": "Cold Brew",
+      "descricao": "Café extraído a frio por 12 horas",
+      "preco": 13.5
+    },
+    {
+      "nome": "Affogato",
+      "descricao": "Uma bola de sorvete de creme com uma dose de espresso",
+      "preco": 15
+    },
+    {
+      "nome": "Nitro Cold Brew",
+      "descricao": "Cold Brew infundido com nitrogênio para uma textura cremosa, suave e efervescente, servido sem gelo.",
+      "preco": 18
+    },
+    {
+      "nome": "Pink Lemonade Refrescante",
+      "descricao": "Limonada natural misturada com purê de morangos e um toque de hortelã, extremamente refrescante.",
+      "preco": 12
+    },
+    {
+      "nome": "Iced Macchiato Caramelo",
+      "descricao": "Leite gelado, xarope de caramelo e shots de espresso despejados lentamente por cima, criando camadas visíveis.",
+      "preco": 17.5
+    },
+    {
+      "nome": "Chá Gelado de Hibisco e Frutas Vermelhas",
+      "descricao": "Infusão gelada e cítrica de hibisco, com pedaços de frutas vermelhas e adoçante opcional.",
+      "preco": 11.5
+    }
+  ],
+  "doces": [
+    {
+      "nome": "Brownie",
+      "descricao": "Bolo de chocolate denso e cremoso",
+      "preco": 9
+    },
+    {
+      "nome": "Cookie",
+      "descricao": "Biscoito com gotas de chocolate",
+      "preco": 6.5
+    },
+    {
+      "nome": "Bolo de Cenoura",
+      "descricao": "Fatia de bolo de cenoura com cobertura de chocolate",
+      "preco": 8
+    },
+    {
+      "nome": "Pain au Chocolat",
+      "descricao": "Pão folhado francês amanteigado e crocante, recheado com barras de chocolate meio amargo.",
+      "preco": 10
+    },
+    {
+      "nome": "Tiramisu Clássico",
+      "descricao": "Sobremesa italiana de camadas de biscoito Savoiardi, umedecidas em café e creme de mascarpone.",
+      "preco": 21
+    },
+    {
+      "nome": "Cinnamon Roll (Rolo de Canela)",
+      "descricao": "Massa macia e doce coberta com uma generosa e irresistível calda de cream cheese.",
+      "preco": 13.5
+    },
+    {
+      "nome": "Scone de Mirtilo",
+      "descricao": "Pãozinho inglês levemente doce e esfarelento com mirtilos, ideal para acompanhar chás.",
+      "preco": 10.5
+    },
+    {
+      "nome": "Muffin de Maçã e Canela",
+      "descricao": "Bolo individual úmido, repleto de pedaços de maçã e especiarias aromáticas.",
+      "preco": 9
+    }
+  ],
+  "veganas": [
+    {
+      "nome": "Café com Leite de Aveia",
+      "descricao": "Espresso com leite de aveia vaporizado",
+      "preco": 14.9
+    },
+    {
+      "nome": "Bolo de Banana Vegano",
+      "descricao": "Fatia de bolo de banana sem ingredientes de origem animal",
+      "preco": 9.5
+    },
+    {
+      "nome": "Torta Crumble de Limão Vegana",
+      "descricao": "Torta cítrica com base de biscoito e cobertura crocante, totalmente livre de laticínios e ovos.",
+      "preco": 15.5
+    },
+    {
+      "nome": "Smoothie de Abacate e Spirulina",
+      "descricao": "Bebida cremosa e nutritiva à base de abacate, leite vegetal, banana e superalimento spirulina.",
+      "preco": 19
+    },
+    {
+      "nome": "Pão de Mel Vegano",
+      "descricao": "Doce úmido e condimentado, coberto com chocolate, feito com ingredientes 100% vegetais.",
+      "preco": 11
+    },
+    {
+      "nome": "Sanduíche de Grão de Bico (Vegano)",
+      "descricao": "Pasta saborosa e proteica de grão de bico temperada com curry, servida em pão integral.",
+      "preco": 18.5
+    }
+  ],
+  "saudaveis": [
+    {
+      "nome": "Salada de Frutas",
+      "descricao": "Mix de frutas frescas da estação",
+      "preco": 10
+    },
+    {
+      "nome": "Iogurte com Granola",
+      "descricao": "Iogurte natural com granola caseira e mel",
+      "preco": 12
+    },
+    {
+      "nome": "Overnight Oats de Chia e Coco",
+      "descricao": "Aveia e sementes de chia hidratadas no leite de coco durante a noite, com frutas frescas da estação.",
+      "preco": 14.5
+    },
+    {
+      "nome": "Wrap Integral de Peru e Cottage",
+      "descricao": "Tortilla integral recheada com peito de peru defumado, queijo cottage light e mix de folhas verdes.",
+      "preco": 17
+    },
+    {
+      "nome": "Suco Detox Verde",
+      "descricao": "Combinação refrescante de couve, gengibre, limão, maçã e pepino, prensado a frio.",
+      "preco": 15
+    },
+    {
+      "nome": "Bowl de Açaí Zero Açúcar",
+      "descricao": "Polpa de açaí pura batida apenas com banana, servida com granola artesanal e castanhas.",
+      "preco": 20
+    }
+  ],
+  "salgados": [
+    {
+      "nome": "Pão de Queijo",
+      "descricao": "Tradicional pão de queijo mineiro",
+      "preco": 5
+    },
+    {
+      "nome": "Croissant",
+      "descricao": "Massa folhada amanteigada",
+      "preco": 7.5
+    },
+    {
+      "nome": "Quiche Lorraine",
+      "descricao": "Torta francesa aberta, recheada com bacon, creme de leite e queijo gruyère, assada em massa crocante.",
+      "preco": 16
+    },
+    {
+      "nome": "Focaccia de Alecrim e Flor de Sal",
+      "descricao": "Pão italiano achatado, macio e aerado, regado com azeite de oliva, alecrim fresco e sal marinho.",
+      "preco": 9.5
+    },
+    {
+      "nome": "Ciabatta Recheada com Queijo Coalho",
+      "descricao": "Pão rústico de miolo macio e crosta crocante, recheado com queijo coalho e orégano, gratinado.",
+      "preco": 15.5
+    },
+    {
+      "nome": "Empada de Palmito Cremosa",
+      "descricao": "Massa amanteigada e desmanchante recheada com um recheio generoso e suave de palmito.",
+      "preco": 12
+    }
+  ]
+}
