@@ -63,6 +63,14 @@ Este projeto foi construído com uma stack puramente front-end, focada em perfor
 
 ---
 
+### Responsividade
+| Versão Desktop | Versão Mobile |
+|----------------|----------------|
+| ![](./assets/filtro-screenshot.png) | ![](./assets/filtro-mobile-screenshot.png) |
+
+
+---
+
 ### 🚀 Como Executar Localmente
 
 Este é um projeto front-end estático e não requer backend ou dependências complexas (como Node.js).
