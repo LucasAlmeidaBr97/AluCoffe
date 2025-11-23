@@ -63,6 +63,8 @@ Este projeto foi construído com uma stack puramente front-end, focada em perfor
 
 ---
 
+---
+
 ### Responsividade
 | Versão Desktop | Versão Mobile |
 |----------------|----------------|
