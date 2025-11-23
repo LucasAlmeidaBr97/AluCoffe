@@ -2,7 +2,7 @@
 
 **`🌟 Visão Geral do Projeto`**
 
-AluCoffe é um projeto de cardápio digital interativo desenvolvido para uma cafeteria fictícia. O objetivo principal deste projeto é demonstrar proficiência em desenvolvimento front-end moderno utilizando exclusivamente HTML5, CSS3 e JavaScript puro (Vanilla JS).
+**AluCoffe** é um projeto de **cardápio digital interativo** desenvolvido para uma cafeteria fictícia. O objetivo principal deste projeto é demonstrar proficiência em desenvolvimento **front-end moderno** utilizando exclusivamente **HTML5, CSS3 e JavaScript puro (Vanilla JS).**
 
 A aplicação simula um ambiente de menu eletrônico, oferecendo uma experiência de usuário fluida através de carregamento dinâmico de dados, navegação por categorias e busca em tempo real. É ideal para quem busca exemplos práticos de manipulação de DOM e consumo de dados JSON sem o uso de frameworks.
 
@@ -34,6 +34,8 @@ A aplicação simula um ambiente de menu eletrônico, oferecendo uma experiênci
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
+
+---
 
 ### ✨ Funcionalidades Principais
 
@@ -67,30 +69,36 @@ A interface foi construída com Flexbox para se adaptar perfeitamente a qualquer
 
 Design Responsivo CSS, Mobile First Web Design, HTML Responsivo Flexbox
 
+---
+
 ### 🛠️ Tecnologias Utilizadas
 
 Este projeto foi construído com uma stack puramente front-end, focada em performance e leveza:
 
-HTML5: Estruturação semântica e acessível do conteúdo.
+**HTML5:** Estruturação semântica e acessível do conteúdo.
 
-CSS3 (Puro): Estilização, criação de layouts responsivos (Flexbox) e aplicação de temas modernos.
+**CSS3 (Puro):** Estilização, criação de layouts responsivos (Flexbox) e aplicação de temas modernos.
 
-JavaScript (ES6+): Programação das lógicas de manipulação do DOM, consumo do JSON e implementação de todas as funcionalidades interativas (filtros e busca).
+**JavaScript (ES6+):** Programação das lógicas de manipulação do DOM, consumo do JSON e implementação de todas as funcionalidades interativas (filtros e busca).
+
+---
 
 ### 🚀 Como Executar Localmente
 
 Este é um projeto front-end estático e não requer backend ou dependências complexas (como Node.js).
 
-Clone o Repositório:
+**1. Clone o Repositório:**
 
 git clone [https://github.com/SeuUsuario/alucoffe-cardapio-digital.git](https://github.com/SeuUsuario/alucoffe-cardapio-digital.git)
 cd alucoffe-cardapio-digital
 
 
-Abra o Arquivo:
+2 .Abra o Arquivo:
 Simplesmente abra o arquivo index.html em seu navegador de preferência (Chrome, Firefox, Edge, etc.).
 
-💡 Dica: Para uma simulação local mais fiel, você pode usar a extensão "Live Server" no VS Code ou executar um servidor web simples (ex: python3 -m http.server) na raiz do projeto.
+**💡 Dica:** Para uma simulação local mais fiel, você pode usar a extensão "Live Server" no VS Code ou executar um servidor web simples (ex: python3 -m http.server) na raiz do projeto.
+
+---
 
 ### 📂 Estrutura de Arquivos
 
@@ -100,6 +108,7 @@ alucoffe-cardapio-digital/
 ├── script.js           # Lógica JavaScript (Manipulação do DOM, Filtros, Busca)
 └── data.json           # Fonte de dados do cardápio (Itens, Categorias, Preços)
 
+---
 
 ### 🤝 Contribuições
 
