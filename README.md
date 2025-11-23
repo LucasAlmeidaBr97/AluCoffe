@@ -1,12 +1,41 @@
-☕ AluCoffe - Cardápio Digital Interativo
+#☕ AluCoffe - Cardápio Digital Interativo
 
-🌟 Visão Geral do Projeto
+**`🌟 Visão Geral do Projeto`**
 
 AluCoffe é um projeto de cardápio digital interativo desenvolvido para uma cafeteria fictícia. O objetivo principal deste projeto é demonstrar proficiência em desenvolvimento front-end moderno utilizando exclusivamente HTML5, CSS3 e JavaScript puro (Vanilla JS).
 
 A aplicação simula um ambiente de menu eletrônico, oferecendo uma experiência de usuário fluida através de carregamento dinâmico de dados, navegação por categorias e busca em tempo real. É ideal para quem busca exemplos práticos de manipulação de DOM e consumo de dados JSON sem o uso de frameworks.
 
-✨ Funcionalidades Principais
+---
+
+### 🤖 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+/>
+
+### ✨ Funcionalidades Principais
 
 Funcionalidade
 
