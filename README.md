@@ -39,35 +39,13 @@ A aplicação simula um ambiente de menu eletrônico, oferecendo uma experiênci
 
 ### ✨ Funcionalidades Principais
 
-Funcionalidade
+| Funcionalidade                     | Descrição                                                                                                                                                                                                 | Palavras-chave de Otimização (SEO)                                   |
+|-----------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------|
+| Carregamento Dinâmico             | Os itens do cardápio são renderizados diretamente a partir de um arquivo **data.json**, garantindo facilidade na manutenção, escalabilidade e separação de preocupações (dados vs. apresentação).            | JavaScript JSON, Carregamento Dinâmico HTML, Menu Scalable          |
+| Filtragem por Categoria           | Permite ao usuário navegar facilmente por seções específicas como “Bebidas Quentes”, “Doces”, “Opções Veganas” e outras, otimizando a usabilidade.                                                         | Filtragem de Menu, Filtro de Categoria JS, UX Design                |
+| Busca em Tempo Real (Live Search) | Uma barra de pesquisa robusta filtra os resultados instantaneamente conforme o usuário digita, proporcionando feedback imediato e encontrando produtos específicos rapidamente.                             | Busca em Tempo Real JavaScript, Live Search Vanilla JS, Função de Pesquisa Front-End |
+| Design Responsivo                 | A interface foi construída com Flexbox para se adaptar perfeitamente a qualquer tamanho de tela, garantindo acessibilidade e usabilidade em desktops e dispositivos móveis (Mobile First).                 | Design Responsivo CSS, Mobile First Web Design, HTML Responsivo Flexbox |
 
-Descrição
-
-Palavras-chave de Otimização (SEO)
-
-Carregamento Dinâmico
-
-Os itens do cardápio são renderizados diretamente a partir de um arquivo data.json, garantindo facilidade na manutenção, escalabilidade e separação de preocupações (dados vs. apresentação).
-
-JavaScript JSON, Carregamento Dinâmico HTML, Menu Scalable
-
-Filtragem por Categoria
-
-Permite ao usuário navegar facilmente por seções específicas como "Bebidas Quentes", "Doces", "Opções Veganas" e outras, otimizando a usabilidade.
-
-Filtragem de Menu, Filtro de Categoria JS, UX Design
-
-Busca em Tempo Real (Live Search)
-
-Uma barra de pesquisa robusta filtra os resultados instantaneamente conforme o usuário digita, proporcionando feedback imediato e encontrando produtos específicos rapidamente.
-
-Busca em Tempo Real JavaScript, Live Search Vanilla JS, Função de Pesquisa Front-End
-
-Design Responsivo
-
-A interface foi construída com Flexbox para se adaptar perfeitamente a qualquer tamanho de tela, garantindo acessibilidade e usabilidade tanto em desktops quanto em dispositivos móveis (Mobile First).
-
-Design Responsivo CSS, Mobile First Web Design, HTML Responsivo Flexbox
 
 ---
 
