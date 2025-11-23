@@ -103,10 +103,18 @@ Simplesmente abra o arquivo index.html em seu navegador de preferência (Chrome,
 
 ### 📂 Estrutura de Arquivos
 
-alucoffe-cardapio-digital/\\├── index.html          # Estrutura principal do cardápio
-\\├── styles.css          # Estilização completa da aplicação (CSS3)
-\\├── script.js           # Lógica JavaScript (Manipulação do DOM, Filtros, Busca)
-\\└── data.json           # Fonte de dados do cardápio (Itens, Categorias, Preços)
+alucoffe-cardapio-digital/
+
+├── index.html          # Estrutura principal do cardápio
+
+
+├── styles.css          # Estilização completa da aplicação (CSS3)
+
+
+├── script.js           # Lógica JavaScript (Manipulação do DOM, Filtros, Busca)
+
+
+└── data.json           # Fonte de dados do cardápio (Itens, Categorias, Preços)
 
 ---
 
