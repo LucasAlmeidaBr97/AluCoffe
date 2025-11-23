@@ -36,6 +36,8 @@ A aplicação simula um ambiente de menu eletrônico, oferecendo uma experiênci
 />
 
 
+
+
 ---
 
 ### ✨ Funcionalidades Principais
