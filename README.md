@@ -5,7 +5,6 @@
 ![Prévia do Projeto](./assets/home-screenshot.png)
 
 ### Responsividade
-| Versão Mobile | 
 | ![](./assets/filtro-mobile-screenshot.png) |
 
 **AluCoffe** é um projeto de **cardápio digital interativo** desenvolvido para uma cafeteria fictícia. O objetivo principal deste projeto é demonstrar proficiência em desenvolvimento **front-end moderno** utilizando exclusivamente **HTML5, CSS3 e JavaScript puro (Vanilla JS).**
@@ -121,5 +120,6 @@ Faça Commit de suas mudanças (git commit -m 'Adiciona NovaFuncionalidade').
 Faça Push para a Branch (git push origin feature/NovaFuncionalidade).
 
 Abra um Pull Request.
+
 
 
