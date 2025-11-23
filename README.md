@@ -2,7 +2,7 @@
 
 **`🌟 Visão Geral do Projeto`**
 
-![Prévia do Projeto](/assets/home-screenshot.png)
+![Prévia do Projeto](assets/home-screenshot.png)
 
 **AluCoffe** é um projeto de **cardápio digital interativo** desenvolvido para uma cafeteria fictícia. O objetivo principal deste projeto é demonstrar proficiência em desenvolvimento **front-end moderno** utilizando exclusivamente **HTML5, CSS3 e JavaScript puro (Vanilla JS).**
 
