@@ -1,4 +1,4 @@
-#☕ AluCoffe - Cardápio Digital Interativo
+# ☕ AluCoffe - Cardápio Digital Interativo
 
 **`🌟 Visão Geral do Projeto`**
 
@@ -67,7 +67,7 @@ A interface foi construída com Flexbox para se adaptar perfeitamente a qualquer
 
 Design Responsivo CSS, Mobile First Web Design, HTML Responsivo Flexbox
 
-🛠️ Tecnologias Utilizadas
+### 🛠️ Tecnologias Utilizadas
 
 Este projeto foi construído com uma stack puramente front-end, focada em performance e leveza:
 
@@ -77,7 +77,7 @@ CSS3 (Puro): Estilização, criação de layouts responsivos (Flexbox) e aplica�
 
 JavaScript (ES6+): Programação das lógicas de manipulação do DOM, consumo do JSON e implementação de todas as funcionalidades interativas (filtros e busca).
 
-🚀 Como Executar Localmente
+### 🚀 Como Executar Localmente
 
 Este é um projeto front-end estático e não requer backend ou dependências complexas (como Node.js).
 
@@ -92,7 +92,7 @@ Simplesmente abra o arquivo index.html em seu navegador de preferência (Chrome,
 
 💡 Dica: Para uma simulação local mais fiel, você pode usar a extensão "Live Server" no VS Code ou executar um servidor web simples (ex: python3 -m http.server) na raiz do projeto.
 
-📂 Estrutura de Arquivos
+### 📂 Estrutura de Arquivos
 
 alucoffe-cardapio-digital/
 ├── index.html          # Estrutura principal do cardápio
@@ -101,7 +101,7 @@ alucoffe-cardapio-digital/
 └── data.json           # Fonte de dados do cardápio (Itens, Categorias, Preços)
 
 
-🤝 Contribuições
+### 🤝 Contribuições
 
 Sinta-se à vontade para sugerir melhorias, reportar bugs ou adicionar novas funcionalidades!
 
@@ -115,6 +115,3 @@ Faça Push para a Branch (git push origin feature/NovaFuncionalidade).
 
 Abra um Pull Request.
 
-📄 Licença
-
-Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
